@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.json
+*.runtime-xml
+*.log
+*.dmp
+MegaJam2020/Intermediate/CachedAssetRegistry.bin
